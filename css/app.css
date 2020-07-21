@@ -122,6 +122,10 @@ aside {
     margin-right: 0.75em;
 }
 
+.social-media {
+    height: 50px;
+    width: 50px;
+}
 
 /*** Footer Styling ***/
 footer {
