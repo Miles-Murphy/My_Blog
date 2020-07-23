@@ -127,6 +127,15 @@ aside {
     width: 50px;
 }
 
+ul {
+    list-style: none;
+}
+
+li::before {
+    content: "• ";
+    color: orange;
+}
+
 /*** Footer Styling ***/
 footer {
     border-top: 2px solid #dbe2e8;
